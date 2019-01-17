@@ -5,7 +5,7 @@
 <style type="text/css">
 	.st0{fill:#00FFFF;}
 	.st1{fill:#FF0000;}
-	.st2{stroke:#000000;stroke-miterlimit:10;}
+	.st2{display:none;stroke:#000000;stroke-miterlimit:10;}
 	.st3{font-family:'Impact';}
 	.st4{font-size:79.0687px;}
 	.st5{fill:#FF0000;stroke:#000000;stroke-miterlimit:10;}
@@ -14,6 +14,7 @@
 	.st8{font-family:'InkFree';}
 	.st9{font-family:'MS-Gothic';}
 	.st10{font-family:'MyriadPro-Regular';}
+	.st11{stroke:#000000;stroke-miterlimit:10;}
 </style>
 <g>
 	<rect x="4.5" y="0.5" class="st0" width="1915" height="1079"/>
@@ -21,7 +22,7 @@
 </g>
 <text transform="matrix(0.7763 0 0 1 32.3335 85.2334)" class="st2 st3 st4">Home     Faqs     Missions     Gift Cards     About Us     Locations</text>
 <text transform="matrix(0.5886 0 0 1 177.3364 483.5332)"><tspan x="0" y="0" class="st5 st3 st6">E</tspan><tspan x="172.8" y="0" class="st5 st7 st6">S</tspan><tspan x="410.37" y="0" class="st5 st8 st6">C</tspan><tspan x="638.25" y="0" class="st5 st3 st6">A</tspan><tspan x="849.42" y="0" class="st5 st9 st6">P</tspan><tspan x="1057.35" y="0" class="st5 st7 st6">E</tspan><tspan x="1280.5" y="0" class="st5 st9 st6"> </tspan><tspan x="1488.43" y="0" class="st5 st10 st6">R</tspan><tspan x="1712.15" y="0" class="st5 st3 st6">O</tspan><tspan x="1939.37" y="0" class="st5 st8 st6">O</tspan><tspan x="2237.11" y="0" class="st5 st9 st6">M</tspan></text>
-<rect x="549.5" y="531.5" class="st2" width="1340" height="496"/>
+<rect x="549.5" y="531.5" class="st11" width="1340" height="496"/>
 <image style="overflow:visible;" width="2000" height="1333" xlink:href="data:image/jpeg;base64,/9j/4AAQSkZJRgABAgEBEAEQAAD/7AARRHVja3kAAQAEAAAAHgAA/+4AIUFkb2JlAGTAAAAAAQMA
 EAMCAwYAAD8YAAB0OwAA8P7/2wCEABALCwsMCxAMDBAXDw0PFxsUEBAUGx8XFxcXFx8eFxoaGhoX
 Hh4jJSclIx4vLzMzLy9AQEBAQEBAQEBAQEBAQEABEQ8PERMRFRISFRQRFBEUGhQWFhQaJhoaHBoa
